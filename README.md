@@ -3,6 +3,7 @@
 ```
 $ sudo yum install git
 $ git clone https://github.com/Fifal/ora
+$ cd ora
 $ chmod u+x *.sh
 ```
 ## Návod
