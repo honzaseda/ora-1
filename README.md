@@ -6,6 +6,7 @@ $ sudo yum install git
 $ git clone https://github.com/Fifal/ora
 $ cd ora
 $ chmod u+x *.sh
+$ wget https://raw.githubusercontent.com/Vrbikk/ora/master/oracle_is_life.txt
 ```
 ## Návod
 * Vložim testovací data, nastavim si zálohování a tak ([Návod jak pán](https://github.com/Vrbikk/ora/blob/master/oracle_is_life.txt))
