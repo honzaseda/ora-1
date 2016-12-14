@@ -29,3 +29,4 @@ $ wget https://raw.githubusercontent.com/Vrbikk/ora/master/oracle_is_life.txt
 
 
 * Pokusim se obnovu udělat pomocí RMANU ([Návod jak pán](https://github.com/Vrbikk/ora/blob/master/oracle_is_life.txt))-> když budu v ouzkejch, můžu zavolat **$ ./recover.sh** což nakopíruje controlfiles, redology a spfile zpátky
+  - případně ručně můžu kopírovat jednotlivý zazálohovaný soubory ze složky /home/oracle/ora_backup/
