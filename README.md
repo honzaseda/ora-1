@@ -10,6 +10,7 @@ $ wget https://raw.githubusercontent.com/Vrbikk/ora/master/oracle_is_life.txt
 ```
 ## Návod
 * Vložim testovací data, nastavim si zálohování a tak ([Návod jak pán](https://github.com/Vrbikk/ora/blob/master/oracle_is_life.txt))
+* Návod je staženej i ve složce /ora pro rychlejší kopírování
 * Potom pro jistotu pustim zálohu **$ ./backup.sh**
   - potom co nám rozbije DB můžu pustit **$ ./diff.sh** což vypíše změny ve složkách **/u01/app/oracle/oradata/orcl12c/** a **/u01/app/oracle/product/12.1.0.2/db_1/dbs/** takže můžem vidět kde nám jakej soubor smazal
   - např.:
